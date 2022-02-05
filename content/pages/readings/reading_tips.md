@@ -6,7 +6,15 @@ title: Some Reading Strategies for History Courses
 uid: 1f7964c2-5f7b-664c-22d5-09ba5fc9e333
 ---
 
-| « Back to: [Readings]({{< baseurl >}}/pages/readings) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back to: [Readings]({{< baseurl >}}/pages/readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A List of Informal Suggestions\*
 
@@ -22,4 +30,12 @@ A List of Informal Suggestions\*
 
 \*Courtesy of Professor Cathryn Carson, University of California at Berkeley. Used with permission.
 
-| « Back to: [Readings]({{< baseurl >}}/pages/readings)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back to: [Readings]({{< baseurl >}}/pages/readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

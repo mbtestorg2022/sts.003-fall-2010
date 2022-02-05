@@ -6,7 +6,15 @@ title: Guidelines for Writing Papers
 uid: 1fe6998f-d627-660d-6ddd-0706e34edf5b
 ---
 
-| « Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Have a clear and strong thesis. In the beginning of the paper, i.e. the first paragraph, offer a clear statement that presents the argument that you will be developing throughout the paper. You can think of your thesis as the answer to a specific question. Answering a specific question, and backing up your answer (thesis) with specific evidence, is quite different from providing "book reports" on the materials you have read.
   
@@ -33,4 +41,12 @@ A useful discussion of appropriate uses for Wikipedia and related web-based site
 
 *   Read, Brock. "[How Do You Cite Wikipedia on a History Paper? At Middlebury College, You Don't. A Professor Explains Why](http://chronicle.com/article/How-Do-You-Cite-Wikipedia-on-a/122530/)." _The Chronicle of Higher Education_, February 1, 2007.
 
-| « Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1)
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+« Back to: [First Paper Assignment]({{< baseurl >}}/pages/assignments/assn1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

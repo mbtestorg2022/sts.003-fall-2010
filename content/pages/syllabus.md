@@ -27,14 +27,75 @@ Our Writing Advisor will organize group meetings over the course of the semester
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 | 10% |
-| Paper 2 | 15% |
-| Paper 2 rewrite | 15% |
-| Proposal for final paper | 5% |
-| Final paper | 35% |
-| Participation in class discussions | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2 rewrite
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Proposal for final paper
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Reading Assignments
 -------------------
@@ -50,36 +111,435 @@ Required readings should be completed before each lecture. We have also provided
 Lecture Schedule
 ----------------
 
-| LEC # | INSTRUCTOR | TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | &nbsp; | Introduction | &nbsp; |
-| {{< td-colspan 4 >}}**1\. Matter**{{< /td-colspan >}} ||||
-| 2 | Kaiser | The stuff of matter in the ancient world | &nbsp; |
-| 3 | Kaiser | Alchemy and experiment in the Renaissance | &nbsp; |
-| 4 | Kaiser | Textbooks and chemical order, from Lavoisier to Mendeleev | &nbsp; |
-| 5 | Kaiser | Quantum alchemy? | &nbsp; |
-| {{< td-colspan 4 >}}**2\. Nature**{{< /td-colspan >}} ||||
-| 6 |  Jones | The nature of nature in ancient and medieval worlds | Paper 1 due |
-| 7 | Jones | Exploring, collecting, classifying | &nbsp; |
-| 8 | Jones | Evolution and the origin of species | &nbsp; |
-| 9 | Jones | Ecology and environment | &nbsp; |
-| {{< td-colspan 4 >}}**3\. Motion**{{< /td-colspan >}} ||||
-| 10 | Kaiser | From "natural motions" to "laws of motion" | &nbsp; |
-| 11 | Kaiser | Beer brewing, steam engines, and the fate of the cosmos | Paper 2 due |
-| 12 | Kaiser | Space, time, and spacetime | &nbsp; |
-| {{< td-colspan 4 >}}**4\. Body**{{< /td-colspan >}} ||||
-| 13 | Jones | Blood, guts and images | &nbsp; |
-| 14 | Jones | Cell theory | &nbsp; |
-| 15 | Jones | Physiology and experiment | &nbsp; |
-| 16 | Jones | Models of inheritance and genetics | &nbsp; |
-| {{< td-colspan 4 >}}**5\. Heavens**{{< /td-colspan >}} ||||
-| 17 | Kaiser | To save the phenomena | &nbsp; |
-| 18 | Kaiser | Copernicus: Round and round we go | Paper 2 re-write due |
-| 19 | Kaiser | The Newtonian cosmos | &nbsp; |
-| 20 | Kaiser | Einstein, gravity, and politics | &nbsp; |
-| {{< td-colspan 4 >}}**6\. Mind**{{< /td-colspan >}} ||||
-| 21 | Jones | Mind-body | Final paper proposal due |
-| 22 |  Jones | Madness | &nbsp; |
-| 23 | Jones | Brains in the lab: Experimental psychology | &nbsp; |
-| 24 | Jones | Man-machine | &nbsp; |
-| 25 |  Kaiser | Conclusion | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTOR
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**1\. Matter**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+The stuff of matter in the ancient world
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Alchemy and experiment in the Renaissance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Textbooks and chemical order, from Lavoisier to Mendeleev
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum alchemy?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**2\. Nature**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ Jones
+{{< tdclose >}}
+{{< tdopen >}}
+The nature of nature in ancient and medieval worlds
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Exploring, collecting, classifying
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution and the origin of species
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Ecology and environment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**3\. Motion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+From "natural motions" to "laws of motion"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Beer brewing, steam engines, and the fate of the cosmos
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Space, time, and spacetime
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**4\. Body**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Blood, guts and images
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Cell theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Physiology and experiment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Models of inheritance and genetics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**5\. Heavens**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+To save the phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Copernicus: Round and round we go
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 re-write due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+The Newtonian cosmos
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Einstein, gravity, and politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**6\. Mind**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Mind-body
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+ Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Madness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Brains in the lab: Experimental psychology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Jones
+{{< tdclose >}}
+{{< tdopen >}}
+Man-machine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+ Kaiser
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
