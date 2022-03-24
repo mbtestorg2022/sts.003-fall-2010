@@ -33,11 +33,11 @@ In the written portion of this assignment, you should use standard footnote conv
 
 ### Primary Sources
 
-Fowler, A. (chair). "Meeting of the Royal Astronomical Society." _The Observatory_ 42 (July 1919): 261-262. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4a_fowl))
+Fowler, A. (chair). "Meeting of the Royal Astronomical Society." _The Observatory_ 42 (July 1919): 261-262. ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4a_fowl))
 
-Thomson, J. J. (chair). "Joint Meeting of the Royal Society and the Royal Astronomical Society." _The Observatory_ 42 (November 1919): 389-398. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://articles.adsabs.harvard.edu//full/1919Obs....42..389./0000389.000.html))
+Thomson, J. J. (chair). "Joint Meeting of the Royal Society and the Royal Astronomical Society." _The Observatory_ 42 (November 1919): 389-398. ([PDF](http://articles.adsabs.harvard.edu//full/1919Obs....42..389./0000389.000.html))
 
-Dyson, F. W., A. S. Eddington, and C. Davidson. "A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919." _Philosophical Transactions of the Royal Society of London_ 220A (1920): 291-333. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4a_dys))
+Dyson, F. W., A. S. Eddington, and C. Davidson. "A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919." _Philosophical Transactions of the Royal Society of London_ 220A (1920): 291-333. ([PDF]({{< baseurl >}}/resources/mitsts_003f10_assn4a_dys))
 
 Harvey, G. M. "Gravitational Deflection of Light: A Re-examination of the Observations of the Solar Eclipse of 1919." _The Observatory_ 99 (December 1979): 195-198.
 

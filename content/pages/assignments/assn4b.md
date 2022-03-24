@@ -36,7 +36,7 @@ In the written portion of this assignment, you should use standard footnote conv
 
 Hagens, G. von. "Plastinated Specimens and Plastination." and "On Gruesome Corpses, Gestalt Plastinates and Mandatory Interment." In _Body Worlds: The Anatomical Exhibition of Real Human Bodies_. Edited by Gunther von Hagens, and Angelina Whalley, translated by Francis Kelly. Heidelberg: Institut für Plastination, 2004, pp. 20-37 and 260-282.
 
-———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://studylib.net/doc/13644599/no-skeletons-in-the-closet-%E2%80%94-facts--background-and-conclu...)).
+———. "No Skeletons in the Closet – Facts, Background and Conclusions: A Response to the Alleged Corpse Scandals in Novosibirsk, Russia, and Bishkek, Kyrgizstan, Associated with the _Body_ _Worlds_ Exhibition." Public statement, distributed online 17 November 2003. ([PDF](http://studylib.net/doc/13644599/no-skeletons-in-the-closet-%E2%80%94-facts--background-and-conclu...)).
 
 Harvey, W. "Proeme and Introductory Chapters of _De Motu Cordis_" \[1628\]. In _The Anatomical Exercises in English Translation_. Dover, 1995, pp. 1-23. ISBN: 9780486688275.
 
