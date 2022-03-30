@@ -11,7 +11,7 @@ Eclipse and Emergence
 
 _Involving Arthur Eddington's eclipse expedition to test Albert Einstein's general theory of relativity_
 
-![Diagram showing how to measure the curvature of light from a distant star as it passes by the Sun.](/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/assignments/assn4a/22.jpg)
+{{< resource "b81a364b-9616-40b5-a75c-aaf20fb8cd15" >}}
 
 (Public domain image)
 

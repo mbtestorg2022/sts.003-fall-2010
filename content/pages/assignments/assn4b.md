@@ -11,7 +11,7 @@ In the Flesh
 
 _Involving Gunther von Hagens's controversial exhibition, Body Worlds_
 
-![Old human anatomy engraving, depicting a standing man with muscles exposed, holding his removed skin in one hand as if he was flayed.](/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/assignments/assn4b/23.jpg)
+{{< resource "d4507bb6-5947-f0da-a510-571c170f4e5a" >}}
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (Public domain image)
